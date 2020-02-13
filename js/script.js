@@ -2,7 +2,7 @@ $(document).ready(function(){
     $('.carousel').slick({
       prevArrow: '<button type="button" class="slick-prev"><img src="../icons/leftsolid.png"></button>',
       nextArrow: '<button type="button" class="slick-next"><img src="../icons/rightsolid.png"></img></button',
-      responsive: [
+      responsive: [ 
         {
           breakpoint: 575,
           settings: {
